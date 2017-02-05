@@ -1,0 +1,10 @@
+c:\users\ольга\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\ольга\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.About.resources
+c:\users\ольга\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.FormGame.resources
+c:\users\ольга\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\ольга\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+c:\users\ольга\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+c:\users\ольга\documents\visual studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\ольга\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+c:\users\ольга\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Ольга\documents\visual studio 2015\Projects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
