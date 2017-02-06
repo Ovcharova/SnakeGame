@@ -199,10 +199,5 @@ namespace Snake
         {
             Close();
         }
-
-        private void pbCanvas_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
